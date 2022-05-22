@@ -1,0 +1,243 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1925px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 70px auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 400px;
+  background-image: url("images/--300x18614.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-top: 68px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-layout-wrap-2 {
+  margin-top: 70px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 400px;
+  background-image: url("images/--300x18615.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-3 {
+  margin-top: 68px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-layout-wrap-3 {
+  margin-top: 85px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 400px;
+  background-image: url("images/--300x18612.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-5 {
+  margin-top: 68px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-layout-wrap-4 {
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 400px;
+  background-image: url("images/--300x18611.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-8 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-7 {
+  margin-top: 68px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1645px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1337px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3001px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: auto;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: auto;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-8 {
+    min-height: auto;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2157px;
+  }
+}

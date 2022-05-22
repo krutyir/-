@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    /* padding: 20px 40px; */
+    display: flex;
+    flex-direction:column;
+    box-sizing: border-box;
+    width: 400px;
+}
+input{
+    margin: 5px 0 0 0;
+}
+span{
+    margin: 10px 0 0 0;
+}
